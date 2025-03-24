@@ -1,0 +1,111 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_9DDA6466_B979_6431_41E2_BCEBFB865796.source = https://api.whatsapp.com/send?phone=5561996036327
+LinkBehaviour_AFE7696E_B94A_EC31_41DF_F084E021D80D.source = https://api.whatsapp.com/send?phone=5561996036327
+LinkBehaviour_9DE592DB_B949_DC17_41BA_8523D148B555.source = https://oticasbrasiliense.com
+LinkBehaviour_A548988B_B9D9_2CF7_41B2_73F5F92EB8D4.source = https://oticasbrasiliense.com/
+LinkBehaviour_9D25CBE2_B94B_2C30_41E0_AE981C457660.source = https://search.google.com/local/writereview?placeid=ChIJyW2naAIwWpMRFADNUI399EA
+LinkBehaviour_A29ADE91_B9C9_6413_41E3_B07BF3F28C89.source = https://search.google.com/local/writereview?placeid=ChIJyW2naAIwWpMRFADNUI399EA
+WebFrame_8C7FA695_BB79_2413_41E0_8FCF34A7EE4A.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.987297324334!2d-47.896894800000005!3d-15.804623799999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a300268a76dc9%3A0x40f4fd8d50cd0014!2s%C3%93ticas%20Brasiliense%20%7C%20Lentes%20Multifocais%20Bras%C3%ADlia%20DF%20%7C%20Lentes%20Hoya%20Zeiss%20Varilux%20Otica%20Asa%20Sul!5e0!3m2!1spt-BR!2sbr!4v1742840525486!5m2!1spt-BR!2sbr
+WebFrame_9FA3C350_B95A_DC11_41DF_0C32D5A75951.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.987297324334!2d-47.896894800000005!3d-15.804623799999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a300268a76dc9%3A0x40f4fd8d50cd0014!2s%C3%93ticas%20Brasiliense%20%7C%20Lentes%20Multifocais%20Bras%C3%ADlia%20DF%20%7C%20Lentes%20Hoya%20Zeiss%20Varilux%20Otica%20Asa%20Sul!5e0!3m2!1spt-BR!2sbr!4v1742840525486!5m2!1spt-BR!2sbr
+LinkBehaviour_9C8ACA37_B979_6C1F_41E1_DA00A9243F0B.source = https://www.instagram.com/oticasbrasiliense/
+LinkBehaviour_A0F3607B_B97B_5C10_41E6_33F5BB0855C4.source = https://www.instagram.com/oticasbrasiliense/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_D6392E2D_C9EB_4144_41E5_67436C910813.text = Instruções
+HotspotPanoramaOverlayTextImage_D665F6C0_C9D7_413C_41DE_308061D3ABA2.text = Instruções
+
+### Tooltip
+HotspotPanoramaOverlayArea_DCB871C6_C954_C2C5_41D2_5CE9A4CB39AF.toolTip = Laboratório
+
+## Media
+
+### Audio
+audiores_9695A97A_B8C9_2C10_41E1_39CD53E7E936.mp3Url = media/audio_88976C02_B8FB_2BF0_418C_C9C9D62DDDC0_pt.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_EB28EDCF_C9EC_C2C4_41A2_5034F3622C77.url = media/panorama_DA9B76AC_C935_C144_41E7_D6F71356F18A_HS_mjssutch_pt.webp
+imlevel_EB2A5DF1_C9EC_C2DC_41E1_7F62ED294D9A.url = media/panorama_DBEFA15F_C935_43C4_41C5_8B209754DA58_HS_o51q39s4_pt.webp
+
+### Title
+panorama_DA9B76AC_C935_C144_41E7_D6F71356F18A.label = 504-01
+panorama_DBD015FB_C935_42CC_41D4_CB4A279B9542.label = 504-02
+panorama_DBEFA15F_C935_43C4_41C5_8B209754DA58.label = 504-03
+panorama_DBEF6D9B_C935_434C_41D3_BC82451ADD9F.label = 504-04
+panorama_DBD0A988_C935_434C_41B7_E4B6A2DA506C.label = 504-05
+panorama_DBEF452E_C935_4344_41D6_9D4BD9FA2E64.label = 504-06
+panorama_DBEECA76_C934_C1C2_41C9_6687B4D41176.label = 504-07-ver2
+panorama_DBD10578_C934_C3CC_41C8_E70B9F5356D1.label = 504-08
+panorama_DBEEE2E1_C934_C6FF_41D0_DE1EB798A172.label = 504-09
+panorama_DBEEB1A8_C934_C34D_41D7_33D03DABD339.label = 504-10
+panorama_DBD040E5_C937_42C4_41E0_E5959F690245.label = 504-11
+panorama_DBEE7FB2_C937_5F5C_41DC_EB90DCDB872F.label = 504-12
+panorama_DBEE3A2A_C937_414C_41D2_39524A97DFC6.label = 504-13
+panorama_DBEE253E_C937_4344_41E2_E3C4086ECA44.label = 504-14
+panorama_DBD0036B_C937_47CC_41DD_2A5ACE8ACD0B.label = 504-15
+panorama_DBEE105F_C937_C1C4_41C4_7FD46AF0D909.label = 504-16
+panorama_DBEE6063_C937_C1FC_41D6_02C3B124B940.label = 504-17
+panorama_DBD5571D_C937_CF47_41E4_EF32AB858259.label = 504-18
+panorama_DBD10C7B_C937_C1CC_41DF_A97E59F16017.label = 504-19
+
+## Skin
+
+### Button
+Button_A0F0507B_B97B_5C10_41CE_AEEEDB0BA133.label = ( X ) FECHAR JANELA
+Button_AE36ABF1_B939_6C13_4194_2A613EF9FB82.label = ( X ) FECHAR JANELA
+Button_A537F891_B9D9_2C13_41E0_F94AE66E7443.label = ( X ) FECHAR JANELA
+Button_A2998E92_B9C9_6411_41DF_A51502DE2E7B.label = ( X ) FECHAR JANELA
+Button_9B3402F1_B949_5C13_41E4_1BBB8EB7EDD6.label = (X) FECHAR JANELA
+Button_9DE552DC_B949_DC11_41E0_D2E32A8E3C66.label = (X) FECHAR JANELA
+Button_9C95DA38_B979_6C11_41CE_B5DCF64C1BFC.label = (X) FECHAR JANELA
+Button_9D24BBE2_B94B_2C30_41D6_5CA784AE8A9F.label = (X) FECHAR JANELA
+Button_A29B1E91_B9C9_6413_41D2_1E992F5E927F.label = ** FAZER AVALIAÇÃO **
+Button_9D241BE1_B94B_2C33_41C4_5E9F470C78FE.label = ** FAZER AVALIAÇÃO **
+Button_A0F4D07A_B97B_5C10_41DC_C3BCE63DF3C1.label = ACESSAR INSTAGRAM
+Button_9C8B3A36_B979_6C11_41E3_9505504710D5.label = ACESSAR PERFIL INSTAGRAM
+Button_A54B688A_B9D9_2CF1_41C8_8DBBAF36FE46.label = ACESSAR SITE
+Button_9DE362DB_B949_DC17_41E3_742FF15A6863.label = ACESSAR SITE
+Button_9B073B81_B959_2CF0_4183_EEF7AFE65829.label = CONVERSAR VIA WHATSAPP
+Button_AF41D319_B937_5C10_41E0_7F2B0F3FAE3D.label = CONVERSAR VIA WHATSAPP
+
+### Image
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_pt.png
+Image_9B04BB81_B959_2CF0_41DB_A4585EDDE3A9.url = skin/Image_9B04BB81_B959_2CF0_41DB_A4585EDDE3A9_pt.png
+Image_9C80AA30_B979_6C11_41DA_555B1D063856.url = skin/Image_9C80AA30_B979_6C11_41DA_555B1D063856_pt.png
+Image_9D2C8BDF_B94B_2C0F_418E_3FD2DE7CE667.url = skin/Image_9D2C8BDF_B94B_2C0F_418E_3FD2DE7CE667_pt.png
+Image_9DE822D9_B949_DC13_41C8_3769AE3523B0.url = skin/Image_9DE822D9_B949_DC13_41C8_3769AE3523B0_pt.png
+Image_A0EF6078_B97B_5C10_41DC_A68D67F14E8A.url = skin/Image_A0EF6078_B97B_5C10_41DC_A68D67F14E8A_pt.png
+Image_A2A5FE8F_B9C9_640F_4198_DFDC4CFF8F51.url = skin/Image_A2A5FE8F_B9C9_640F_4198_DFDC4CFF8F51_pt.png
+Image_A306B256_B97F_3C10_41D9_352F407E754F.url = skin/Image_A306B256_B97F_3C10_41D9_352F407E754F_pt.png
+Image_A54C9888_B9D9_2CF1_41DF_3860BC031F45.url = skin/Image_A54C9888_B9D9_2CF1_41DF_3860BC031F45_pt.png
+Image_A90FDFBD_B8CB_2413_41E6_33C35B5EE768.url = skin/Image_A90FDFBD_B8CB_2413_41E6_33C35B5EE768_pt.png
+Image_AB713250_B8CF_5C11_41E2_DA53E141DD73.url = skin/Image_AB713250_B8CF_5C11_41E2_DA53E141DD73_pt.png
+Image_AB79686A_B8C9_2C31_41C7_15A49AE3950A.url = skin/Image_AB79686A_B8C9_2C31_41C7_15A49AE3950A_pt.png
+Image_AF34B30F_B937_5DF0_41DE_84D8359EB2BB.url = skin/Image_AF34B30F_B937_5DF0_41DE_84D8359EB2BB_pt.png
+
+### Multiline Text
+HTMLText_9C88AA36_B979_6C11_41CC_D1B01F8FE15D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.93601462522852vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.94vh;font-family:'Montserrat';"><B>ACESSE NOSSO PERFIL DO INSTAGRAM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.29vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.38vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7422303473491776vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.74vh;">ACESSE NOSSO PERFIL DO INSTAGRAM PARA VER NOSSAS PROMOÇÕES E INFORMAÇÕES SOBRE PRODUTOS</SPAN></SPAN></DIV></div>
+HTMLText_9DE302DA_B949_DC11_41CF_89070503FD48.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.93601462522852vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.94vh;font-family:'Montserrat';"><B>ACESSE NOSSO SITE OFICIAL</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.29vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.2906764168190117vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.29vh;font-family:'Montserrat';">ÓTICAS</SPAN><SPAN STYLE="font-size:3.11vh;font-family:'Montserrat';"><B>BRASILIENSE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.38vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7422303473491776vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.38vh;">Acesse</SPAN><SPAN STYLE="font-size:2.74vh;"> nosso site para mais informações sobre produtos e serviços. Nossa equipe conta com profissionais qualificados para esclarecer qualquer dúvida sobre os óculos.</SPAN></SPAN></DIV></div>
+HTMLText_9D27CBE1_B94B_2C33_41E0_A0AC3D824B50.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.482266910420474vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.48vh;font-family:'Montserrat';"><B>SUA OPINIÃO É IMPORTANTE PARA NÓS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.2906764168190117vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.29vh;font-family:'Montserrat';">ÓTICAS</SPAN><SPAN STYLE="font-size:3.11vh;font-family:'Montserrat';"><B>BRASILIENSE 504 sul</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.38vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7422303473491776vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.74vh;">Faça uma rápida avaliação de nossa empresa no Google. Opine sobre produtos, serviços e nosso atendimento !!!</SPAN></SPAN></DIV></div>
+HTMLText_A0F4E079_B97B_5C10_41C8_FF1A70EA0380.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>ACESSE NOSSO PERFIL DO INSTAGRAM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.000000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:5vmin;font-family:'Montserrat';">ÓTICAS</SPAN><SPAN STYLE="font-size:4.72vmin;font-family:'Montserrat';"><B>BRASILIENSE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666668vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;">ACESSE NOSSO PERFIL DO INSTAGRAM PARA VER NOSSAS PROMOÇÕES E INFORMAÇÕES SOBRE PRODUTOS</SPAN></SPAN></DIV></div>
+HTMLText_AF409318_B937_5C10_41E6_635565699234.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>Fale com um especialista</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.000000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:5vmin;font-family:'Montserrat';">ÓTICAS</SPAN><SPAN STYLE="font-size:4.72vmin;font-family:'Montserrat';"><B>BRASILIENSE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666668vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;">Entre em contato agora mesmo com um consultor especialsta de nossa unidade da</SPAN><SPAN STYLE="font-size:4.17vmin;"><B> 504 sul</B></SPAN><SPAN STYLE="font-size:4.17vmin;">. Nossa equipe conta com profissionais qualificados para esclarecer qualquer dúvida sobre os óculos.</SPAN></SPAN></DIV></div>
+HTMLText_A29B7E90_B9C9_6411_41E6_4ABAE86977AC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>SUA OPINIÃO É IMPORTANTE PARA NÓS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.000000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:5vmin;font-family:'Montserrat';">ÓTICAS</SPAN><SPAN STYLE="font-size:4.72vmin;font-family:'Montserrat';"><B>BRASILIENSE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666668vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;">Faça uma rápida avaliação de nossa empresa no Google. Opine sobre produtos, serviços e nosso atendimento !!!</SPAN></SPAN></DIV></div>
+HTMLText_A54B1889_B9D9_2CF3_41E2_1AF575590424.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.33vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>WEBSITE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.000000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:5vmin;font-family:'Montserrat';">ÓTICAS</SPAN><SPAN STYLE="font-size:4.72vmin;font-family:'Montserrat';"><B>BRASILIENSE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666668vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Acesse</SPAN><SPAN STYLE="font-size:4.17vmin;"> nosso site para mais informações sobre produtos e serviços. Nossa equipe conta com profissionais qualificados para esclarecer qualquer dúvida sobre os óculos.</SPAN></SPAN></DIV></div>
+HTMLText_8C7F4695_BB79_2413_41E4_B5939C3DF767.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562499999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização  - 504 sul</B></SPAN></SPAN></DIV></div>
+HTMLText_9B04DB81_B959_2CF0_41E0_B81A8F5EE462.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>FALE COM UM ESPECIALISTA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.2906764168190117vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:3.29vh;font-family:'Montserrat';">ÓTICAS</SPAN><SPAN STYLE="font-size:3.11vh;font-family:'Montserrat';"><B>BRASILIENSE</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.38vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7422303473491776vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.74vh;">Entre em contato agora mesmo com um consultor especialsta de nossa unidade da </SPAN><SPAN STYLE="font-size:2.74vh;"><B>504 sul</B></SPAN><SPAN STYLE="font-size:2.74vh;">. Nossa equipe conta com profissionais qualificados para esclarecer qualquer dúvida sobre os óculos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.74vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_9FA3A350_B95A_DC11_41C9_07C3629B4E70.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.91vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>LOCALIZAÇÃO LOJA 504 SUL</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Tour Virtual óticas Brasiliense
+
+### Title
+tour.name = Tour Virtual óticas Brasiliense 504
